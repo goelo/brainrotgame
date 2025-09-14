@@ -1,8 +1,3 @@
-1. https://play.google.com/store/apps/details?id=com.bm.steal.brainrot.go.tung.sahur.tralalero.bombardino&hl=en_US&pli=1
-2. https://brainrotgames.games
-3. https://play.google.com/store/apps/details?id=com.llstudio.brainrotfight&hl=en_US
-4. https://www.crazygames.com/game/find-brainrot
-
 ## The Complete Brainrotgame Guide
 
 - Play instantly — free and online — at https://brainrotgames.games
