@@ -48,3 +48,4 @@
 - Play instantly (free, online): https://brainrotgames.games
 - Try a mobile or browser example: https://play.google.com/store/apps/details?id=com.bm.steal.brainrot.go.tung.sahur.tralalero.bombardino&hl=en_US&pli=1, https://play.google.com/store/apps/details?id=com.llstudio.brainrotfight&hl=en_US, https://www.crazygames.com/game/find-brainrot
 - find (free, online): https://www.bizarrelineagecodes.com/ and https://www.getgardenhorizons.com/
+- also find some site: [colorgames](colorkit.store)
